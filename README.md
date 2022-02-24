@@ -18,5 +18,6 @@ The wiki contains relevant information on the use of TDMIoT as a design framewor
 Feel free to send comments to us to improve our work.
 
 Best wishes
-Network Systems Research Team
-CINVESTAV Guadalajara 
+
+#### Network Systems Research Team
+#### CINVESTAV Guadalajara 
