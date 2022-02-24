@@ -13,7 +13,7 @@ The analysis for the definition of the TDMIoT characteristics is based on an Inp
 ### About this repository
 This repository presents TDMIoT and contains relevant data concerning its assessment(A systematic review dataset and a classified dataset).
 
-The wiki contains relevant information on the use of TDMIoT as a design framework and as a classification scheme. As well as a detailed figure that shows the classification of the selected works through a systematic review of the decision-making processes in the IoT application domains [Figure](https://github.com/CinvestavGDL-NS/TDMIoT/wiki/Decision-making-process-in-IoT-applications-domains-a-summary). With this figure you can see a summary of the approaches regarding decision-making processes within the IoT application domains between the years 2016-2021. 
+The wiki contains relevant information on the use of TDMIoT as a design framework and as a classification scheme. As well as a detailed figure that shows the classification of the selected works through a systematic review of the decision-making processes in the IoT application domains. In this [Figure](https://github.com/CinvestavGDL-NS/TDMIoT/wiki/Decision-making-process-in-IoT-applications-domains-a-summary) you can see a summary of the approaches regarding decision-making processes within the IoT application domains between the years 2016-2021. 
 
 Feel free to send comments to us to improve our work.
 
