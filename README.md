@@ -8,7 +8,6 @@ TDMIoT has a hierarchical structure and was designed using a conceptual-empirica
 Each dimension in this taxonomy represents a characteristic of the decision process. This taxonomy is intended as a guide for the selection of decision-making algorithms and attempts to find relationships between the elements associated with the decision-making process, the purpose of the decision problem, and the decision-making algorithms. 
 The analysis for the definition of the TDMIoT characteristics is based on an Input-Process-Output model.
 
-![Taxonomy (1)](https://user-images.githubusercontent.com/55676248/155397631-9560b313-b503-40b8-aae9-62b26e535a90.jpg)
 
 ### About this repository
 This repository presents TDMIoT and contains relevant data concerning its assessment(A systematic review dataset and a classified dataset).
